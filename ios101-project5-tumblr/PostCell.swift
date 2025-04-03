@@ -1,10 +1,3 @@
-//
-//  PostCell.swift
-//  ios101-project5-tumblr
-//
-//  Created by Hieu Quach Reddy gurrala on 4/2/24.
-//
-
 import UIKit
 
 class PostCell: UITableViewCell {

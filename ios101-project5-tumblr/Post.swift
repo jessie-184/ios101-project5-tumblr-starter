@@ -1,8 +1,3 @@
-//
-//  Post.swift
-//  ios101-project5-tumbler
-//
-
 import Foundation
 
 struct Blog: Decodable {
