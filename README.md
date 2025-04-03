@@ -2,7 +2,7 @@
 
 Submitted by: **Hieu Quach**
 
-**Tumblr** is an app fetches blog posts from the Tumblr API and displays them in a scrolling list.
+**Tumblr** is an app that fetches blog posts from the Tumblr API and displays them in a scrolling list.
 
 Time spent: **8** hours spent in total
 
@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 ## License
 
-    Copyright [2024] [CodePath]
+    Copyright [2025] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
